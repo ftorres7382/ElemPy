@@ -1,0 +1,1 @@
+# Contains all functiosn that would help all validations for the ElemPy package

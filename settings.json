@@ -1,0 +1,12 @@
+{
+    "supported_os":[
+        "Windows"
+    ],
+    "strict_os": true,
+
+    "supported_python_versions": [
+        "3.9.7"
+    ],
+    "strict_python_version": false
+
+}
